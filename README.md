@@ -22,7 +22,7 @@ More details on the source of the dataset are given below:
 
 ## References
 
-Taddeo, Amorim, Aquino (2022) **Causal Measures Using Generalized Difference-in-difference Approach with Nonlinear Models**, _Statistics and Its Interface_, 15(4):399-413 [[link] (https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0015/0004/a001/index.php?mode=ns "Zika_Brazil_2022")]
+Taddeo, Amorim, Aquino (2022) **Causal Measures Using Generalized Difference-in-difference Approach with Nonlinear Models**, _Statistics and Its Interface_, 15(4):399-413 [[link](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0015/0004/a001/index.php?mode=ns "Zika_Brazil_2022")]
 
 
 https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0015/0004/a001/index.php?mode=ns
