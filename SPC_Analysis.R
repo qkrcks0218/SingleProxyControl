@@ -10,7 +10,8 @@ source("SPC_Ft.R")
 #############################
 # Dataset
 # Zika Virus in Brazil
-# The dataset is used in Tchetgen Tchetgen, Park, Richardson (2023) Universal Difference-in-Differences for Causal Inference in Epidemiology
+# The dataset is used in Universal Difference-in-Differences for Causal Inference in Epidemiology 
+# (Tchetgen Tchetgen, Park, Richardson, 2023) https://arxiv.org/abs/2302.00840
 # The source of the dataset are given below:
 # Pre- and Post-treatment Outcomes, Treatment, and log population: 
 #       zika_Table2.tab in  https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ENG0IY
@@ -273,6 +274,13 @@ RR <- rbind( sens.para,
              sapply(1:4,function(tt){Sens.Result[[tt]]$Est}),
              sapply(1:4,function(tt){Sens.Result[[tt]]$Est-qnorm(0.975)*Sens.Result[[tt]]$SE}),
              sapply(1:4,function(tt){Sens.Result[[tt]]$Est+qnorm(0.975)*Sens.Result[[tt]]$SE}))
+
+RR
+#                   COCA      COCA(NULL)   COCA(Positive)     COCA(Crude)
+# sens.para    0.0000000     0.439000000      0.614000000      0.8043000
+# Estimate    -1.6946269    -0.661963017      0.007796038      0.9267923
+# LB          -2.5849174    -1.328821835     -0.962489263     -1.1183557
+# UB          -0.8043364     0.004895802      0.978081338      2.9719403
 
 print(data.frame( cbind( c("Sensitivity Parameter & ","Estimate &",
                            "95\\% CI & "),

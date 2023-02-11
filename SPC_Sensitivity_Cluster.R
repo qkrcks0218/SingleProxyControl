@@ -16,7 +16,8 @@ source("SPC_Ft.R")
 #############################
 # Dataset
 # Zika Virus in Brazil
-# The dataset is used in Tchetgen Tchetgen, Park, Richardson (2023) Universal Difference-in-Differences for Causal Inference in Epidemiology
+# The dataset is used in Universal Difference-in-Differences for Causal Inference in Epidemiology 
+# (Tchetgen Tchetgen, Park, Richardson, 2023) https://arxiv.org/abs/2302.00840
 # The source of the dataset are given below:
 # Pre- and Post-treatment Outcomes, Treatment, and log population: 
 #       zika_Table2.tab in  https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ENG0IY
