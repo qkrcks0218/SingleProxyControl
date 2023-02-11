@@ -1,6 +1,6 @@
 # Replication Files for Single Proxy Control (Tchetgen Tchetgen, Park, Richardson, 2023) 
 
-This Github repository contains replication files for [Tchetgen Tchetgen, Park, Richardson (2023)](https://fill.later "SPC").
+This Github repository contains replication files for [Single Proxy Control (Tchetgen Tchetgen, Park, Richardson, 2023)](https://fill.later "SPC").
 
 
 ## Data
