@@ -1,6 +1,6 @@
 # Replication Files for Single Proxy Control (Tchetgen Tchetgen, Park, Richardson, 2023) 
 
-This Github repository contains replication files for [Single Proxy Control (Tchetgen Tchetgen, Park, Richardson, 2023)](https://fill.later "SPC").
+This Github repository contains replication files for [Single Proxy Control (Tchetgen Tchetgen, Park, Richardson, 2023)](https://arxiv.org/abs/2302.06054 "SPC").
 
 
 ## Data
@@ -26,4 +26,6 @@ See [Taddeo, Amorim, Aquino (2022)](https://www.intlpress.com/site/pub/pages/jou
 Taddeo, Amorim, Aquino (2022) **Causal Measures Using Generalized Difference-in-difference Approach with Nonlinear Models**, _Statistics and Its Interface_, 15(4):399-413 [[link](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0015/0004/a001/index.php?mode=ns "ZB")]
 
 Tchetgen Tchetgen, Park, Richardson (2023) **Universal Difference-in-Differences for Causal Inference in Epidemiology**, _arXiv:2302.00840_ [[link](https://arxiv.org/abs/2302.00840 "ORECEPI")]
+
+Tchetgen Tchetgen, Park, Richardson (2023) **Single Proxy Control**, _arXiv:2302.06054_ [[link](https://arxiv.org/abs/2302.06054 "SPC")]
 
