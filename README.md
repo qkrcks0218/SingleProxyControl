@@ -33,4 +33,3 @@ Tchetgen Tchetgen, Park, Richardson (2023) **Universal Difference-in-Differences
 
 Park, Richardson, Tchetgen Tchetgen (2023) **Single Proxy Control**, _arXiv:2302.06054_ [[link](https://arxiv.org/abs/2302.06054 "SPC")]
 
-# SingleProxyControl
